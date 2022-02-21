@@ -1,2 +1,2 @@
-# HTM-MODEL_EXCHANGE
-Code for KDD' 22 paper: Neuroscience-Inspired Algorithms for Real-time AnomalyDetection in Mobile Broadband Networks
+# RCAD:Real-time Collaborative Anomaly Detection System for Mobile Broadband Networks
+Code for KDD' 22 paper: RCAD:Real-time Collaborative Anomaly Detection System for Mobile Broadband Networks
